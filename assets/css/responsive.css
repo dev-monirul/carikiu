@@ -86,20 +86,26 @@ a.menubar {
 	display: block;
 }
 .mobile-login-form input {
-    width: 100%;
+    width: 49%;
     margin-top: 12px;
     padding: 6px 20px;
 }
-
+.mobile-login-form input[type="pass"] {
+    float: right;
+}
 a.submit-btn {
-    width: 100%;
+    width: 49%;
     text-align: center;
+    display: inline-block;
 }
 
 a.dafter-btn {
-    width: 100%;
+    width: 49%;
     text-align: center;
+    float: right;
+    display: inline-block;
 }
+
 
     
 }
@@ -186,19 +192,24 @@ a.menubar {
 	display: block;
 }
 .mobile-login-form input {
-    width: 100%;
+    width: 49%;
     margin-top: 12px;
     padding: 6px 20px;
 }
-
+.mobile-login-form input[type="pass"] {
+    float: right;
+}
 a.submit-btn {
-    width: 100%;
+    width: 49%;
     text-align: center;
+    display: inline-block;
 }
 
 a.dafter-btn {
-    width: 100%;
+    width: 49%;
     text-align: center;
+    float: right;
+    display: inline-block;
 }
 
 
