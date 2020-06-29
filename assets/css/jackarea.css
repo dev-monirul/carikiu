@@ -57,3 +57,6 @@ input#jackpott {
 .social{
     position: relative;
 }
+.mobile-game img {
+    width: 100%;
+}
