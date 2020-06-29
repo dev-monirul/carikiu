@@ -105,7 +105,9 @@ a.dafter-btn {
     float: right;
     display: inline-block;
 }
-
+.mobile-game{
+    display: block;
+}
 
     
 }
@@ -211,7 +213,9 @@ a.dafter-btn {
     float: right;
     display: inline-block;
 }
-
+.mobile-game{
+    display: block;
+}
 
 
 
